@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedfais10" alt="muhammedfais10" /></a> </p>
 
-- 💻 Programming Languages: **JavaScript, Typescript.**
+- 💻 Programming Languages: **JavaScript, C++, Typescript.**
 
 - 🔧 Tools: **Git, VSCode, etc...**
 
